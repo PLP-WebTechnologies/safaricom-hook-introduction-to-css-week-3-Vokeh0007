@@ -1,0 +1,19 @@
+/* External CSS */
+
+/* Change the background color of the entire webpage */
+body {
+    background-color: #f0f0f0;
+}
+
+/* Style for links */
+a.link {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Hover effect for links */
+a.link:hover {
+    color: red;
+    text-decoration: underline;
+}
